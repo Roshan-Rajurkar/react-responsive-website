@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-responsive-website/static/css/main.b2f0a86b.css",
+    "main.js": "/react-responsive-website/static/js/main.9cbf5ad5.js",
+    "static/media/home_bg.svg": "/react-responsive-website/static/media/home_bg.c002b677234de468706bf88a85a07a36.svg",
+    "index.html": "/react-responsive-website/index.html",
+    "main.b2f0a86b.css.map": "/react-responsive-website/static/css/main.b2f0a86b.css.map",
+    "main.9cbf5ad5.js.map": "/react-responsive-website/static/js/main.9cbf5ad5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2f0a86b.css",
+    "static/js/main.9cbf5ad5.js"
+  ]
+}
